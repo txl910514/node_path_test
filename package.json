@@ -1,0 +1,23 @@
+{
+  "name": "node_path_test",
+  "version": "1.0.0",
+  "description": "node_path_test测试 http://www.cnblogs.com/52cik/p/learn-node-path.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/node_path_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/node_path_test/issues"
+  },
+  "homepage": "https://github.com/txl910514/node_path_test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
